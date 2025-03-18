@@ -24,7 +24,7 @@ const Home = () => {
           >
             <path d="M96 0V47L48 94H0V47L48 0H96Z" />
           </svg>
-          Flowrifthhhhhhhhhhhhhhhhhh                  hhhhhhhhhhhhhhhhhhhh
+          Talk&Buy
         </a>
         {/* logo - end */}
         {/* nav - start */}
