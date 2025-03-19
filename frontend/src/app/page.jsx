@@ -13,7 +13,7 @@ const Home = () => {
         <img
   src="/banner.jpeg"
   alt="Voice Shopping"
-  className="absolute inset-0 h-full w-full object-cover object-center"/>
+  className="absolute inset-0 h-full                 w-full object-cover object-center"/>
 
         {/* image - end */}
       
